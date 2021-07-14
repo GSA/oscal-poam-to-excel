@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSCAL POAM Mapper", "OSCAL POAM Mapper\OSCAL POAM Mapper.csproj", "{FFBB7BA2-2C82-4EE3-9F30-B77B3A81D91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBB7BA2-2C82-4EE3-9F30-B77B3A81D91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBB7BA2-2C82-4EE3-9F30-B77B3A81D91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBB7BA2-2C82-4EE3-9F30-B77B3A81D91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBB7BA2-2C82-4EE3-9F30-B77B3A81D91F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791BB450-AB15-4FA5-9EDE-9B1E6FD0837C}
+	EndGlobalSection
+EndGlobal
